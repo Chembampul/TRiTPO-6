@@ -45,7 +45,7 @@
 ## 2.2 Интерфейс пользователя
 ## Окно пользователя
 
-![Начальная страница]((https://github.com/Chembampul/TRiTPO-6/blob/main/BuxsObISnYo.jpg))<br />
+![Начальная страница](https://github.com/Chembampul/TRiTPO-6/blob/main/BuxsObISnYo.jpg)<br />
 
 ![Страница ответа](https://github.com/Chembampul/TRiTPO-6/blob/main/eiCU8aj6Vf8.jpg)
 
